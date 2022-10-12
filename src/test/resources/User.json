@@ -1,0 +1,12 @@
+{
+  "name": "Di",
+  "age": 34,
+  "country": "Germany",
+  "hobby": ["Tennis", "Snowboard", "Learning"],
+  "order" : {
+    "orderDate": "07.07.22",
+    "products": 2,
+    "isCreditCard": true,
+    "productsDetail": ["book1", "ebook2", "book3"]
+  }
+}
